@@ -1,0 +1,11 @@
+servicedata:
+  api:
+    username: a2si-servicedata-api-user
+    password: EyeDeeTee
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://quartz-instance.cul2u2wratut.eu-west-2.rds.amazonaws.com:3306/idt_db
+    username: idt_user
+    password: password
